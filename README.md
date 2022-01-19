@@ -24,9 +24,3 @@ node-unblocker相对于PHP的web代理性能要好，且易于在Heroku上部署
 
 # 注：此代理适用于大多数网站，但无法播放YouTube视频。观看YouTube视频，请使用 [you2php-heroku](https://github.com/zhangke200377/you2php-heroku)。
 
-# 社会主义核心价值观
- 富强 民主 文明 和谐
- 
- 自由 平等 公正 法制
- 
- 爱国 敬业 诚信 友善
