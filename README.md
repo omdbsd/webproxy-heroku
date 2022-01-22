@@ -20,7 +20,7 @@ $ cd webproxy-hrk
 $ heroku create my_h-n-p
 ```
 
-将clone的代码push到Heroku
+将代码push到Heroku
 
 ```
 $ git push heroku main
