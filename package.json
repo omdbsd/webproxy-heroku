@@ -1,10 +1,10 @@
 {
-  "name": "nodeunblocker.com",
-  "description": "Web proxy for evading internet censorship",
-  "author": "Nathan Friedly - http://nfriedly.com",
+  "name": "nub.com",
+  "description": "search the web",
+  "author": "Nathan",
   "version": "1.0.0",
   "private": "true",
-  "homepage": "http://nodeunblocker.com/",
+  "homepage": "http://nub.com/",
   "dependencies": {
     "express": "^4.13.0",
     "gatling": "~1.2.0",
