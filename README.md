@@ -29,5 +29,7 @@ $ git push heroku main
 打开 https://my_h-n-p.herokuapp.com 即可使用。
 
 
-## 注：此代理适用于大多数网站，但无法播放YouTube视频。
+-----
+
+注：此代理适用于大多数网站，但无法播放YouTube视频。
 
